@@ -72,7 +72,9 @@ ix.	Further drill down to individual level top 10 open oppty and Win
 I cleaned the data in Excel before importing it to PowerBI, I explored the data to find any inconsistencies, duplicates, incorrect format, or missing values. I’ll share some of the inconsistencies and incorrect format I found and how I corrected. 
 
 ## My SQL Queries
-Link to Olist store Schema
+
+Link to insurance Schema
+https://github.com/karishma836/Insurance_Analysis_Project/blob/main/Insurance%20Query_Sql.sql
 
 # Creating Data Visualizations
 
