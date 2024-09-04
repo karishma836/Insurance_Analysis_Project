@@ -80,38 +80,48 @@ https://github.com/karishma836/Insurance_Analysis_Project/blob/main/Insurance%20
 
 # KPI1
 
-Now to find the Payment values for weekend vs weekday ,Firstly duplicated the purchase timestamp transform to days of the week and renamed to purchase days.Now I created a custom column for purchase days used if else formula . And to verify if it is working, I m represented this KPI in Donut chart of weekname and Payment values
+Number of Invoices by Account Executives - Divya Dhingra is leading with the highest number of invoices, particularly in new and cross-sell categories, indicating a strong performance. Other executives like Ankita Shah and Shikha Shah are also performing well, especially in renewal invoices.
+
 
 
 ![Screenshot 2024-09-04 153202](https://github.com/user-attachments/assets/a60c1240-32db-402d-bbba-4bbf5a436c0c)
 
 # KPI2
 
-There are 4 types of payment types, and since orders of review score of 5 are asked, I selected a Waterfall chart for this KPI.
+Yearly Meeting Count -  The number of meetings in 2020 (31) far exceeds those in 2019 (3), indicating increased sales efforts and possibly the implementation of new strategies to engage with clients more frequently.
 
 
 ![Screenshot 2024-09-04 152547](https://github.com/user-attachments/assets/2bafe8bd-7f84-467a-af6a-292e38e46e6c)
 
 # KPI3
 
-To show this KPI I simply created a gauge chart, now to provide more insights for product category and Average days taken to deliver
+## Cross Sell (Target, Achive,new) 
+While the cross-sell achievement is impressive, the invoicing rate is low compared to the amount achieved. This suggests that there may be delays or challenges in converting these sales into invoices, or further follow-up may be needed.
 
+## New (Target, Achive,new) 
+The team was close to meeting the new business target but did not fully reach it. The lack of invoicing data here might indicate that it was not available or it could be less significant compared to other categories.
+
+## Renewal (Target, Achive,new)
+This shows exceptional performance in renewals, surpassing the target by a large margin. However, there is still some room to convert the remaining amount into invoices.
 
 ![Screenshot 2024-09-04 153138](https://github.com/user-attachments/assets/b03c468c-ec0f-428a-bb10-90c0c2e93261)
 
 # KPI4
 
-Represented this KPI with the help of Stacked column bar chart and analysed that the Average payment is high compared to Avg price for Sao paulo city
+Open Opportunities in Funnel Chart - The largest value is at the "Qualify Opportunity" stage, indicating a significant number of potential deals at the early stage. The pipeline narrows as it moves to the "Propose Solution" and "Negotiate" stages, highlighting the need for focused efforts to advance these opportunities through the pipeline.
 
 ![Screenshot 2024-09-04 152854](https://github.com/user-attachments/assets/14163720-bba2-4abb-8f31-a4a89bcff06c)
 
 
 # KPI5
+Number of Meetings by Account Executives - Abhinav Shivam has conducted the most meetings, which often correlates with strong sales performance. Regular meetings are crucial for relationship building and closing deals.
 
 ![Screenshot 2024-09-04 153333](https://github.com/user-attachments/assets/e1130f1b-86b2-4dba-b7b2-fe43c6fafe7c)
 
 
 # KPI6
+ Open Opportunities by Revenue - Top 4 - Opportunities like DB-Mega Policy and EL-Group Mediclaim are high-revenue opportunities that should be prioritized by the sales team for closure. CVP GMC also represents a significant potential revenue stream.
+
 ![Screenshot 2024-09-04 153202](https://github.com/user-attachments/assets/bf1ed6f5-daf3-4ae0-869d-dcbd45d040ff)
 
 # Dashboard
