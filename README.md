@@ -118,13 +118,12 @@ Open Opportunities in Funnel Chart - The largest value is at the "Qualify Opport
 # KPI5
 Number of Meetings by Account Executives - Abhinav Shivam has conducted the most meetings, which often correlates with strong sales performance. Regular meetings are crucial for relationship building and closing deals.
 
-![Screenshot 2024-09-04 153333](https://github.com/user-attachments/assets/e1130f1b-86b2-4dba-b7b2-fe43c6fafe7c)
-
+![Screenshot 2024-09-04 153202](https://github.com/user-attachments/assets/bf1ed6f5-daf3-4ae0-869d-dcbd45d040ff)
 
 # KPI6
  Open Opportunities by Revenue - Top 4 - Opportunities like DB-Mega Policy and EL-Group Mediclaim are high-revenue opportunities that should be prioritized by the sales team for closure. CVP GMC also represents a significant potential revenue stream.
 
-![Screenshot 2024-09-04 153202](https://github.com/user-attachments/assets/bf1ed6f5-daf3-4ae0-869d-dcbd45d040ff)
+![Screenshot 2024-09-04 153333](https://github.com/user-attachments/assets/e1130f1b-86b2-4dba-b7b2-fe43c6fafe7c)
 
 # Dashboard
 
