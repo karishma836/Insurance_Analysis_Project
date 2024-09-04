@@ -11,12 +11,11 @@ This project aims to develop a comprehensive branch performance dashboard to fac
 
 ## Description of Our source Data:
 
-I sourced the stock market data from reliable financial databases. The data included daily trading volumes, stock prices, dividends, P/E ratios, market capitalization, and other relevant financial metrics.
+The data for this project was sourced from the AI Varient and financial systems of the insurance company. It included performance metrics, sales opportunities, meeting records, and revenue data for each branch.
 
 ## Questions we hope to answer with our data:
 
 with this Data we hope to Answer 6 different KPI's
-
 
 1] No of Invoice by Accnt Exec
 
