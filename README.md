@@ -22,9 +22,9 @@ with this Data we hope to Answer 6 different KPI's
 
 2] Yearly Meeting Count
 
-3] a.Cross Sell--Target,Achive,new
-3] b.New-Target,Achive,new
-3] c.Renewal-Target, Achive,new
+3] (a).Cross Sell--Target,Achive,new
+ (b).New-Target,Achive,new
+ (c).Renewal-Target, Achive,new
 
 4] Stage Funnel by Revenue
 
