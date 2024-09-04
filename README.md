@@ -82,8 +82,7 @@ https://github.com/karishma836/Insurance_Analysis_Project/blob/main/Insurance%20
 
 # KPI1
 
-Number of Invoices by Account Executives - Divya Dhingra is leading with the highest number of invoices, particularly in new and cross-sell categories, indicating a strong performance. Other executives like Ankita Shah and Shikha Shah are also performing well, especially in renewal invoices.
-
+Number of Invoices by Account Executives - Number of Meetings by Account Executives - Abhinav Shivam has conducted the most meetings, which often correlates with strong sales performance. Regular meetings are crucial for relationship building and closing deals.
 
 
 ![Screenshot 2024-09-04 153202](https://github.com/user-attachments/assets/a60c1240-32db-402d-bbba-4bbf5a436c0c)
@@ -116,7 +115,7 @@ Open Opportunities in Funnel Chart - The largest value is at the "Qualify Opport
 
 
 # KPI5
-Number of Meetings by Account Executives - Abhinav Shivam has conducted the most meetings, which often correlates with strong sales performance. Regular meetings are crucial for relationship building and closing deals.
+Divya Dhingra is leading with the highest number of invoices, particularly in new and cross-sell categories, indicating a strong performance. Other executives like Ankita Shah and Shikha Shah are also performing well, especially in renewal invoices.
 
 ![Screenshot 2024-09-04 153202](https://github.com/user-attachments/assets/bf1ed6f5-daf3-4ae0-869d-dcbd45d040ff)
 
